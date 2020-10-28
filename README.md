@@ -3,7 +3,7 @@
 # Environment
 kubernetes=1.18.9
 
-How to install kubeflow
+# How to install kubeflow
 
 sudo snap install microk8s --classic --channel=1.18/stable
 
