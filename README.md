@@ -1,3 +1,4 @@
+
 # kubeflow-example
 
 # Environment
@@ -12,3 +13,6 @@ microk8s start
 microk8s enable dns storage gpu istio
 
 microk8s enable kubeflow
+
+# Reference
+Trevor Grant. (2020). Kubeflow for Machine Learning (Holden Karau, Boris Lublinsky, Richard Liu, Ilan Filonenko). O'Reilly Media, Inc.
